@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B03C23980D634A71BE44960D2618C4EBC5E45D61",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "243e033c-4601-0010-a3f5-0fbddb6967bd++5957" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "243e033c-4601-0010-a3f5-0fbddb6967bd++5957" : 0,
+    "B03C23980D634A71BE44960D2618C4EBC5E45D61" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CE5D1B6E-2139-4285-B56C-FEF2251222B2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "243e033c-4601-0010-a3f5-0fbddb6967bd++5957" : "mailcoreDemoSVN\/",
+    "B03C23980D634A71BE44960D2618C4EBC5E45D61" : "BCMailCore\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "mailcoreDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "mailcoreDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/svn.midea.com\/mmp2",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "243e033c-4601-0010-a3f5-0fbddb6967bd++5957"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "mobilegit.midea.com:MobilePlatform_BusinessComponent_iOS\/BCMailCore.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B03C23980D634A71BE44960D2618C4EBC5E45D61"
+    }
+  ]
+}

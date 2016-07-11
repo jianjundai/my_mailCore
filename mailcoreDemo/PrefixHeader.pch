@@ -1,0 +1,14 @@
+//
+//  PrefixHeader.pch
+//  mailcoreDemo
+//
+//  Created by ios－dai on 16/6/28.
+//  Copyright © 2016年 ios－dai. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "MailDefine.h"
+
+#endif /* PrefixHeader_pch */
